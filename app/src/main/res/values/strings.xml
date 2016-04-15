@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stack</string>
+    <string name="enter_number">Please enter one number between 0 and 9.</string>
+    <string name="push">Push</string>
+    <string name="pop">Pop</string>
+    <string name="exit">Exit</string>
+</resources>
